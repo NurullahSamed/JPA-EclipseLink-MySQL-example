@@ -1,6 +1,6 @@
 = JPA-EclipseLink-MySQL-example
 
-Eclipse JPA kullanılarak yazılan örnek bir uygulama.
+EclipseLink JPA kullanılarak yazılan örnek bir uygulama.
 
 == Program Çıktısı
 
